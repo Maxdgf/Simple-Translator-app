@@ -9,7 +9,7 @@ Tkinter Translator app with googletrans api.
 ##
     pip install googletrans
 
-if googletrans not working:
+<h4>if googletrans not working:</h4>
 
 ##
     pip install googletrans==3.1.0a0
