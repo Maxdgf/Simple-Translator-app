@@ -1,7 +1,7 @@
 # Simple-Translator-app
 Tkinter Translator app with googletrans api.
 
-Requirements:
+<h3>Requirements:</h3>
 
 ##
     pip install tkinter
