@@ -13,3 +13,6 @@ Tkinter Translator app with googletrans api.
 
 ##
     pip install googletrans==3.1.0a0
+
+
+![](screenImageTranslatorapp.jpg)
